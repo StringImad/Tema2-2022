@@ -14,6 +14,7 @@ public class Ej15 {
     public static void main(String[] args) {
         boolean adivina = ((97 == 'a') && true);
         System.out.println(adivina);
-
+        boolean adivina2 = (1 == 4);
+        System.out.println(adivina2);
     }
 }
